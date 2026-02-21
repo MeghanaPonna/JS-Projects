@@ -20,11 +20,12 @@ These projects helped me practice core JavaScript concepts, DOM manipulation, an
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- DOM Manipulation  
 
 ---
 
@@ -39,7 +40,8 @@ These projects helped me practice core JavaScript concepts, DOM manipulation, an
 
 ## 📂 Folder Structure
 
-```text
+```
+
 JS-Projects/
 │
 ├── Click-Button-Inc/
@@ -51,3 +53,39 @@ JS-Projects/
 ├── numberGuessingGame/
 ├── stopWatchProgram/
 └── README.md
+
+````
+
+---
+
+## 🚀 How to Run the Projects
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/MeghanaPonna/JS-Projects.git
+````
+
+2. Open any project folder
+3. Run the `index.html` file in your browser
+
+---
+
+## 🌱 Learning Outcomes
+
+* Hands-on experience with JavaScript events
+* Improved DOM manipulation skills
+* Better understanding of conditional logic
+* Building interactive UI without frameworks
+
+---
+
+## 👩‍💻 Author
+
+**Meghana Ponna**
+Aspiring Full Stack Developer
+GitHub: [https://github.com/MeghanaPonna](https://github.com/MeghanaPonna)
+
+---
+
+⭐ If you like this repository, don’t forget to star it!
+
