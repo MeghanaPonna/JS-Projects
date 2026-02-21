@@ -1,6 +1,6 @@
 # 🚀 JS Mini Projects
 
-A collection of **JavaScript mini projects** built using **HTML, CSS, and Vanilla JavaScript**.  
+A collection of **JavaScript mini projects** built using **HTML, CSS, and JavaScript**.  
 These projects helped me practice core JavaScript concepts, DOM manipulation, and basic UI logic.
 
 ---
@@ -40,8 +40,6 @@ These projects helped me practice core JavaScript concepts, DOM manipulation, an
 
 ## 📂 Folder Structure
 
-```
-
 JS-Projects/
 │
 ├── Click-Button-Inc/
@@ -54,16 +52,13 @@ JS-Projects/
 ├── stopWatchProgram/
 └── README.md
 
-````
-
 ---
 
 ## 🚀 How to Run the Projects
 
 1. Clone the repository  
-   ```bash
-   git clone https://github.com/MeghanaPonna/JS-Projects.git
-````
+```bash
+git clone https://github.com/MeghanaPonna/JS-Projects.git
 
 2. Open any project folder
 3. Run the `index.html` file in your browser
